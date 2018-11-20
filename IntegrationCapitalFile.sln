@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28124.53
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "IntegrationCapitalFile", "IntegrationCapitalFile\IntegrationCapitalFile.dtproj", "{DE413073-0D82-4B3C-95F3-4D4854F46418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE413073-0D82-4B3C-95F3-4D4854F46418}.Development|Default.ActiveCfg = Development
+		{DE413073-0D82-4B3C-95F3-4D4854F46418}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C354A6C-6687-49E4-B90B-E1FEC4D738DB}
+	EndGlobalSection
+EndGlobal
